@@ -1,6 +1,6 @@
-make all this the fluent var
+-- make all this the fluent var
 
-local Fluent = loadstring(game:HttpGet("https://raw.githubusercontent.com/dawid-scripts/Fluent/master/src/Acrylic/AcrylicBlur.lua", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/dawid-scripts/Fluent/master/src/Acrylic/AcrylicBlur.lua", true))()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/dawid-scripts/Fluent/master/src/Acrylic/AcrylicPaint.lua", true))()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/dawid-scripts/Fluent/master/src/Acrylic/CreateAcrylic.lua", true))()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/dawid-scripts/Fluent/master/src/Acrylic/Utils.lua", true))()
